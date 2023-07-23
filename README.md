@@ -1,8 +1,8 @@
 === 👋 ===
 
 <--
-  I'm OtakY - he-he,\n
-  I like AI, Alhoritms.
+  I'm <i>OtakY</i> - he-he<b>
+  I like AI, Alhoritms</b>
 --->
 
 ==========

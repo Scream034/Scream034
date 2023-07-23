@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @Scream034
+=== 👋 ===
 
 <--
-  I'm pROgrammist at godot engine
+  I'm OtakY - he-he,
+  I like AI, Alhoritms.
 --->
+
+==========

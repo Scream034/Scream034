@@ -1,8 +1,6 @@
-=== 👋 ===
+<b>◄◄◄◄ Hi there! ►►►►</b>
 
-<--
-  I'm <i>OtakY</i> - he-he<b>
-  I like AI, Alhoritms</b>
---->
+`I really like Godot Engine, C#.`<br>
+<i>My life's an entropy of random coincidences.</i>
 
-==========
+<b>↕=↕ ↕=↕ ↕=↕ ↕=↕ ↕=↕</b>

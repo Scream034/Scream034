@@ -21,7 +21,7 @@ I am a 16-year-old student and a junior developer with over 2 years of experienc
 | Skill | Level |
 | --- | --- |
 | Game Engine | Godot Engine: GDScript, C# - Advanced |
-| FiveM | Backend: Lua, C# - Advanced |
+| FiveM | Backend: Lua, C# - Beginner |
 
 ### Other
 | Skill | Level |

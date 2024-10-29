@@ -7,7 +7,7 @@ I am a 16-year-old student and a junior developer with over 2 years of experienc
 ## Current Projects
 | Project | Description |
 | --- | --- |
-| FiveM server | Backend and a small frontend |
+| FiveM server | Backend and frontend |
 
 ## Skills
 ### Web Development

@@ -7,7 +7,7 @@ I am a 16-year-old student and a junior developer with over 2 years of experienc
 ## Current Projects
 | Project | Description |
 | --- | --- |
-| FiveM server | Backend and frontend |
+| Scraping | Use Godot C# .NET CORE |
 
 ## Skills
 ### Web Development
@@ -21,7 +21,7 @@ I am a 16-year-old student and a junior developer with over 2 years of experienc
 | Skill | Level |
 | --- | --- |
 | Game Engine | Godot Engine: GDScript, C# - Advanced |
-| FiveM | Backend: Lua, C# - Beginner |
+| FiveM | Backend: Lua, C# - Intermediate |
 
 ### Other
 | Skill | Level |

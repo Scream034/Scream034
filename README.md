@@ -1,37 +1,37 @@
 # About Me
 
-**<b>◄◄◄◄ Hello! ►►►►</b>**
+Hello! 👋
 
-I am a 16-year-old student and a junior developer with over 2 years of experience in the indie game and web development industries. While I don't have any major achievements yet, I've had the opportunity to work in a team of game developers through freelance work. I've received positive feedback for my work on parsing-related tasks on freelance platforms.
+I am a 17-year-old student and a junior developer with over 2.5 years of experience in indie game development, web development, and backend systems. I have worked on various projects, including game mechanics, parsing systems, and server-side development for FiveM. I am passionate about creating efficient and scalable solutions, and I enjoy tackling complex problems with creative approaches.
 
 ## Current Projects
-| Project | Description |
-| --- | --- |
-| Scraping | Use Godot C# .NET CORE |
+
+### Scraping and Data Processing
+- **Technologies**: Godot (C#), .NET Core
+- **Description**: Developing a scraping tool for automated data collection and processing. The project involves parsing websites, extracting relevant data, and storing it in a structured format for further analysis.
 
 ## Skills
+
 ### Web Development
-| Skill | Level |
-| --- | --- |
-| Frontend | JavaScript, TypeScript - Intermediate |
-| Backend | JavaScript, Node.js - Intermediate |
-| C# ASP.NET - Beginner |
+- **Frontend**: JavaScript, TypeScript — Intermediate (experience with building interactive web interfaces).
+- **Backend**: Node.js, C# ASP.NET — Intermediate (developing REST APIs and server-side logic).
 
 ### Game Development
-| Skill | Level |
-| --- | --- |
-| Game Engine | Godot Engine: GDScript, C# - Advanced |
-| FiveM | Backend: Lua, C# - Intermediate |
+- **Game Engines**: Godot Engine (GDScript, C#) — Advanced (developed game mechanics, UI systems, and custom tools).
+- **FiveM**: Lua, C# — Intermediate (created custom server-side systems for multiplayer game servers).
 
 ### Other
-| Skill | Level |
-| --- | --- |
-| Parsing | Python - Intermediate |
+- **Parsing**: Python — Intermediate (developed scraping tools for data collection and processing).
 
 ## Current Interests
-I'm particularly interested in learning C# ASP.NET for backend development and data processing. I'm also very passionate about the FiveM platform, as it allows me to build and run my own game server, which aligns with my personal interests.
+
+I am deeply interested in backend development and data processing, particularly using C# ASP.NET. I am also passionate about game development, especially on the FiveM platform, where I enjoy creating custom server-side systems and game mechanics. These interests align with my goal of becoming a full-stack developer with a focus on scalable and efficient solutions.
 
 ## Education
-I'm currently enrolled at the Moscow Open College (MOC), studying to become a Developer. I'm expecting to graduate in 2028, but I'm considering transferring to a different college in the future.
 
-I'm always eager to learn and improve my skills, and I'm happy to discuss any suggestions or feedback you may have for improving my resume further.
+### Moscow Open College (MOC)
+- **Program**: Software Development
+- **Expected Graduation**: 2028
+- **Relevant Courses**: Programming Fundamentals, Web Development, Game Development, Data Structures and Algorithms.
+
+I am always eager to learn and improve my skills. If you have any questions or would like to discuss potential opportunities, feel free to reach out to me. I look forward to connecting with you!

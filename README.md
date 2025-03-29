@@ -8,7 +8,7 @@ I'm a 17-year-old aspiring C# Developer with over 2.5 years of experience in ind
 
 - **C# — Advanced Proficiency.**  Deep understanding of OOP principles (SOLID, KISS, DRY, DDD), design patterns (and anti-patterns), database interaction, and proficient in utilizing various C# libraries (e.g., `ClosedXML`, `Selenium`, `Playwright`, `HtmlAgilityPack`).  Extensive hands-on experience using C# in game development, web applications, and backend systems.
 
-- **Backend:** C# ASP.NET (Pet Projects), Node.js (Intermediate, REST API Development), Lua (Advanced, FiveM Server-Side Development).
+- **Backend:** C# ASP.NET (Pet Projects), Lua (Advanced, FiveM Server-Side Development).
 
 - **Frontend:** JavaScript, TypeScript (Intermediate, Experience with React, Vue).
 
@@ -20,7 +20,6 @@ I'm a 17-year-old aspiring C# Developer with over 2.5 years of experience in ind
 
 - **Backend Development:**
     - Development of server-side applications and web services using C# and Lua.
-    - REST API development with Node.js.
     - Experience working with SQL databases (MySQL, MariaDB).
     - Pet projects in C# ASP.NET (REST APIs, backend for web applications).
     - Commercial backend development experience in Lua for FiveM (high-load server systems).

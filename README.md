@@ -41,8 +41,7 @@ I'm a 17-year-old aspiring C# Developer with over 2.5 years of experience in ind
     - C# .NET, ASP.NET Core (Learning in Progress), Docker (Learning in Progress).
     - Godot Engine, Visual Studio, VS Code, Git, GitHub.
     - Playwright, Selenium, MyStem, ClosedXML (Basic Familiarity).
-    - Agile (Scrum/Kanban).
-    - Python, Node.js, Lua, GDScript, JavaScript, TypeScript, HTML, CSS, SQL.
+    - Python, Lua, GDScript, JavaScript, TypeScript, HTML, CSS, SQL.
 
 #### Total Programming Experience: 3 Years.
 

@@ -1,37 +1,52 @@
-# About Me
+## Hello 👋
 
-Hello! 👋
+I'm a 17-year-old aspiring C# Developer with over 2.5 years of experience in indie game development, web development, and backend systems. My passion lies in crafting efficient, scalable, and innovative backend solutions using C# .NET. I thrive on tackling complex challenges and bringing creative ideas to life through code.
 
-I am a 17-year-old student and a junior developer with over 2.5 years of experience in indie game development, web development, and backend systems. I have worked on various projects, including game mechanics, parsing systems, and server-side development for FiveM. I am passionate about creating efficient and scalable solutions, and I enjoy tackling complex problems with creative approaches.
+#### Github: [Scream034](https://github.com/Scream034)
 
-## Current Projects
+### Skills:
 
-### Scraping and Data Processing
-- **Technologies**: Godot (C#), .NET Core
-- **Description**: Developing a scraping tool for automated data collection and processing. The project involves parsing websites, extracting relevant data, and storing it in a structured format for further analysis.
+- **C# — Advanced Proficiency.**  Deep understanding of OOP principles (SOLID, KISS, DRY, DDD), design patterns (and anti-patterns), database interaction, and proficient in utilizing various C# libraries (e.g., `ClosedXML`, `Selenium`, `Playwright`, `HtmlAgilityPack`).  Extensive hands-on experience using C# in game development, web applications, and backend systems.
 
-## Skills
+- **Backend:** C# ASP.NET (Pet Projects), Node.js (Intermediate, REST API Development), Lua (Advanced, FiveM Server-Side Development).
 
-### Web Development
-- **Frontend**: JavaScript, TypeScript — Intermediate (experience with building interactive web interfaces).
-- **Backend**: Node.js, C# ASP.NET — Intermediate (developing REST APIs and server-side logic).
+- **Frontend:** JavaScript, TypeScript (Intermediate, Experience with React, Vue).
 
-### Game Development
-- **Game Engines**: Godot Engine (GDScript, C#) — Advanced (developed game mechanics, UI systems, and custom tools).
-- **FiveM**: Lua, C# — Intermediate (created custom server-side systems for multiplayer game servers).
+- **Databases:** SQL (Intermediate, MySQL, MariaDB), NoSQL (Basic Understanding).
 
-### Other
-- **Parsing**: Python — Intermediate (developed scraping tools for data collection and processing).
+- **Other Languages:** Lua (Advanced), Python (Intermediate), GDScript (Intermediate).
 
-## Current Interests
+### Experience:
 
-I am deeply interested in backend development and data processing, particularly using C# ASP.NET. I am also passionate about game development, especially on the FiveM platform, where I enjoy creating custom server-side systems and game mechanics. These interests align with my goal of becoming a full-stack developer with a focus on scalable and efficient solutions.
+- **Backend Development:**
+    - Development of server-side applications and web services using C# and Lua.
+    - REST API development with Node.js.
+    - Experience working with SQL databases (MySQL, MariaDB).
+    - Pet projects in C# ASP.NET (REST APIs, backend for web applications).
+    - Commercial backend development experience in Lua for FiveM (high-load server systems).
 
-## Education
+- **Game Development (Godot Engine, FiveM, Roblox):**
+    - Development of 2D/3D game mechanics, UI/UX, AI, procedural generation, and server-side systems.
+    - Experience creating RPG and FPS mechanics in Godot Engine (C#).
+    - Commercial server-side development experience for FiveM (Lua).
+    - Pet projects and experience developing game modes for Roblox (Luau).
 
-### Moscow Open College (MOC)
-- **Program**: Software Development
-- **Expected Graduation**: 2028
-- **Relevant Courses**: Programming Fundamentals, Web Development, Game Development, Data Structures and Algorithms.
+- **Web Development (Frontend):**
+    - Creation of websites and web applications using HTML, CSS, JavaScript, TypeScript.
+    - Experience working with React, Vue, and custom frontend frameworks.
+    - Development of interactive UI components and animations.
+    - Website performance and optimization.
 
-I am always eager to learn and improve my skills. If you have any questions or would like to discuss potential opportunities, feel free to reach out to me. I look forward to connecting with you!
+- **Tools and Technologies:**
+    - C# .NET, ASP.NET Core (Learning in Progress), Docker (Learning in Progress).
+    - Godot Engine, Visual Studio, VS Code, Git, GitHub.
+    - Playwright, Selenium, MyStem, ClosedXML (Basic Familiarity).
+    - Agile (Scrum/Kanban).
+    - Python, Node.js, Lua, GDScript, JavaScript, TypeScript, HTML, CSS, SQL.
+
+#### Total Programming Experience: 3 Years.
+
+### Contacts:
+- **Telegram**: [@paralax034](https://t.me/paralax034)
+- **Discord**: paralax#8461
+- **Email**: kostgs034@yandex.ru

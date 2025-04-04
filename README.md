@@ -10,7 +10,7 @@ I'm a 17-year-old aspiring C# Developer with over 2.5 years of experience in ind
 
 - **Backend:** C# ASP.NET (Pet Projects), Lua (Advanced, FiveM Server-Side Development).
 
-- **Frontend:** JavaScript, TypeScript (Intermediate, Experience with React, Vue).
+- **Frontend:** JavaScript, TypeScript (Intermediate).
 
 - **Databases:** SQL (Intermediate, MySQL, MariaDB), NoSQL (Basic Understanding).
 
@@ -32,7 +32,6 @@ I'm a 17-year-old aspiring C# Developer with over 2.5 years of experience in ind
 
 - **Web Development (Frontend):**
     - Creation of websites and web applications using HTML, CSS, JavaScript, TypeScript.
-    - Experience working with React, Vue, and custom frontend frameworks.
     - Development of interactive UI components and animations.
     - Website performance and optimization.
 

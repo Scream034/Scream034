@@ -43,6 +43,8 @@ I'm a 17-year-old aspiring C# Developer with over 2.5 years of experience in ind
 
 #### Total Programming Experience: 3 Years.
 
+Current learning: Java mod, ASP.NET (new)
+
 ### Contacts:
 - **Telegram**: [@paralax034](https://t.me/paralax034)
 - **Discord**: paralax#8461

@@ -54,4 +54,4 @@ Highly motivated and results-oriented Software Developer with 3 years of hands-o
 *   **Game Development:** Godot Engine, FiveM, Roblox (Luau)
 *   **Tools & Principles:** Git, Visual Studio, VS Code, SOLID, Design Patterns, OOP, Docker (learning)
 
-#### Active use: Gemeni AI, Chatgpt :)
+#### Active use: Gemini Ai, Claude Ai :)

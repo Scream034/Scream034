@@ -2,7 +2,7 @@
 
 Highly motivated and results-oriented Software Developer with 3 years of hands-on experience specializing in building high-performance backend systems, complex game mechanics, and data processing tools. Proven ability to tackle complex algorithmic challenges, architect scalable solutions from the ground up, and deliver significant performance optimizations.
 
-**Telegram:** [@paralax034](https://t.me/paralax034) | **Email:** `kostgs034@yandex.ru` | **GitHub:** [Scream034](https://github.com/Scream034)
+**Telegram:** [@paralax034](https://t.me/paralax034) | **Email:** `kostgs034@yandex.ru`
 
 ---
 
